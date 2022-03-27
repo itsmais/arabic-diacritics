@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Nunito&display=swap");
+body {
+  background-color: #f6e7d8;
+}
+.keyboard {
+  display: flex;
+  flex-direction: column;
+}
+.row {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+}
+.btn-dark {
+  font-family: "Nunito", sans-serif;
+  font-size: 35px;
+  color: #874356;
+  background-color: #f68989;
+  border: unset;
+  border-radius: 7px;
+  padding: 8px;
+  margin: 3px;
+  width: 40px;
+}
+.shift-btn-dark {
+  margin: 3px;
+}
+.btn-dark:hover,
+.shift-btn-dark:hover {
+  opacity: 0.9;
+  cursor: pointer;
+}
+.btn-dark:active,
+.shift-btn-dark:active {
+  opacity: 0.8;
+}
