@@ -11,7 +11,7 @@ A chrome extension that lets you click to copy Arabic diacritics.
 - [Clipboard.writeText() - MDN Web Docs](https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/writeText)
 - [Getting Started - Google Developers - Extensions](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
 
-## Link to Extension 🔗
+## Link to extension 🔗
 TBA
 <!-- 👉 [Link to extension on Chrome Websore](https://chrome.google.com/webstore/detail/french-accents/jmnjcglbcleaddocnpkckjmlloeaaaak/) -->
 
