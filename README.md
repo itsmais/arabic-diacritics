@@ -13,12 +13,15 @@ A chrome extension that lets you click to copy Arabic diacritics.
 
 ## Link to Extension 🔗
 TBA
-<!-- 👉 [Link to extension on Chrome Websore](https://chrome.google.com/webstore/detail/french-accents/jmnjcglbcleaddocnpkckjmlloeaaaak/) 👈 -->
+<!-- 👉 [Link to extension on Chrome Websore](https://chrome.google.com/webstore/detail/french-accents/jmnjcglbcleaddocnpkckjmlloeaaaak/) -->
+
+## Link to extension's Figma file ✒️
+👉 [Link to file on Figma Community](https://www.figma.com/community/file/1090597564251051323/Arabic-Diacritics-Chrome-Extension) 👈
 
 ## Contributing 🚀
 Feel free to submit an issue for bugs and features.
 
-## Screenshot of the Extension 🖼
+## Screenshot of the extension 🖼
 <p float="left">
   <img src="screenshots/extension%20screenshot.jpg" width="700" />
 </p>
