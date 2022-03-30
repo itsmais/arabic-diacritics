@@ -30,14 +30,8 @@ function fillKeyboardContent() {
     keyboardLetter.setAttribute("id", i);
     // adding copy on click to button
     keyboardLetter.addEventListener("click", function () {
-      navigator.clipboard.writeText(diacToCopy[i]).then(
-        function () {
-          /* clipboard successfully set */
-        },
-        function () {
-          /* clipboard write failed */
-        }
-      );
+      // https://developer.mozilla.org/en-US/docs/Web/API/Clipboard/writeText
+      let promise = navigator.clipboard.writeText(diacToCopy[i]);
     });
 
     keyboardLetter.innerText = diac[i];
